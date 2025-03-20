@@ -1,5 +1,5 @@
 # Intro
-Route optimization test using Dijstra's algorithm
+Route optimization test using Dijkstra's algorithm
 
 # Instalation
 ```bash
